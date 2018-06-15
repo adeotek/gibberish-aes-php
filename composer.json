@@ -1,0 +1,17 @@
+{
+    "name": "ivantcholakov/gibberish-aes-php",
+    "description": "Gibberish AES, a PHP Implementation",
+    "type": "library",
+    "version": "1.3.1",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Ivan Tcholakov",
+            "email": "ivantcholakov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "lib-openssl": "^1.0.1",
+    },
+}
