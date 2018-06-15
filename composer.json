@@ -12,6 +12,6 @@
     ],
     "require": {
         "php": ">=7.1",
-        "lib-openssl": "^1.0.1",
-    },
+        "lib-openssl": "^1.0.1"
+    }
 }
