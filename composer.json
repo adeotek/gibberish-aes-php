@@ -1,5 +1,5 @@
 {
-    "name": "ivantcholakov/gibberish-aes-php",
+    "name": "adeotek/gibberish-aes-php",
     "description": "Gibberish AES, a PHP Implementation",
     "type": "library",
     "license": "MIT License",
